@@ -1,0 +1,5 @@
+{
+  "name": "이모티콘 생성기",
+  "description": "학생들을 위한 감정 표현 도구. 사진을 업로드하면 다양한 표정의 3D 캐릭터 이모티콘으로 만들어줍니다.",
+  "requestFramePermissions": []
+}
